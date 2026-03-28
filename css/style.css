@@ -1458,6 +1458,9 @@ body.visible-sidebar{
     display: block;
     margin: 10px auto;
   }
+  .btn-style-two{
+    font-size: 12px;
+  }
 }
 /* BACKGROUND LAYER */
 .banner-bg{
